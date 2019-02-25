@@ -1,4 +1,4 @@
-package com.stays.configserver;
+package com.orastays.configserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
